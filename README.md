@@ -1,5 +1,6 @@
 # New-York-Housing-Market-Analysis-and-Prediction
-![](images/pexels-jack-gittoes-1274799.jpg)
+<img src="Images/pexels-jack-gittoes-1274799.jpg" alt="Image Description" height="400">
+
 
 ## About Section:
 This project involves analyzing the New York housing market dataset to gain insights into various factors affecting property prices. It includes data cleaning, exploratory data analysis (EDA), visualization, and building predictive models to estimate housing prices.
@@ -23,6 +24,8 @@ We began by examining our dataset to identify missing values and filtering unwan
 
 ### Visualization of top sublocalities by average price and average prices by property type:
 The visual highlighted the significant variation in average prices across different property types. Townhouses, houses, and condos tend to have higher average prices compared to other property types. This information can be valuable for individuals interested in understanding the average market prices for various types of properties.
+
+<img src="Images/plot_image_1.jpg" alt="Image Description" height="300"> <img src="Images/plot_image_2.jpg" alt="Image Description" height="300">
 
 ### Iterative analysis including price per square foot and correlation analysis:
 - Correlation Matrix:
