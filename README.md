@@ -1,4 +1,6 @@
 # New-York-Housing-Market-Analysis-and-Prediction
+![](images/ pexels-jack-gittoes-1274799.jpg)
+
 ## About Section:
 This project involves analyzing the New York housing market dataset to gain insights into various factors affecting property prices. It includes data cleaning, exploratory data analysis (EDA), visualization, and building predictive models to estimate housing prices.
 
